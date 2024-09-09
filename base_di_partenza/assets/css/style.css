@@ -120,7 +120,6 @@ img {
 @media screen and (min-width: 1200px) {
   .table {
     display: block;
-
     margin-left: 30%;
   }
   .frame {
